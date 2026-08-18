@@ -1,4 +1,4 @@
-# Learning Python course by Aryan Kumar
+# Learning Python course by Aryanj Kumar
 # Example file for complex types
 
 # Sequences: Lists and Tuples
